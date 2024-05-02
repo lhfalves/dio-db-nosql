@@ -13,3 +13,5 @@ https://www.mongodb.com/docs/manual/reference/method/db.collection.findAndModify
 
 db.collection.find()
 https://www.mongodb.com/docs/manual/reference/method/db.collection.find/
+
+https://try.redis.io/
